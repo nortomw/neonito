@@ -2,6 +2,8 @@
 
 Prototipo de juego web sobre exploración, amistad y generosidad. Desarrollado con HTML, CSS y JavaScript nativo.
 
+https//nortomw.github.io/neonito/
+
 ## Estructura
 
 - `index.html`: interfaz HTML.
